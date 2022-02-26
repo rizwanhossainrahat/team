@@ -1,0 +1,20 @@
+.player{
+    display: flex;
+    
+}
+.player img{
+    width: 250px;
+}
+.details{
+    margin-left: 10px;
+    padding: 10px;
+}
+.player div{
+    padding: 10px;
+}
+.player button{
+    background-color: goldenrod;
+    border: 1px solid lightcyan;
+    border-radius: 5px;
+    cursor: pointer;
+}

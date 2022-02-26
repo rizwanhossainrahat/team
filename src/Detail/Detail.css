@@ -1,0 +1,12 @@
+.add-player{
+    display: flex;
+    border: 1px solid cyan;
+    margin: 20px;
+    padding: 20px;
+}
+.add-player img{
+    width: 200px;
+}
+.detail{
+    margin-left: 10px;
+}
